@@ -7,15 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F20671C1BE8476C00D59DA5 /* ZHBrandCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F20671B1BE8476C00D59DA5 /* ZHBrandCell.m */; };
+		0F20671F1BE8530600D59DA5 /* OneSnapUpCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F20671E1BE8530600D59DA5 /* OneSnapUpCell.m */; };
+		0F2067221BE8533B00D59DA5 /* FourSqualCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F2067211BE8533B00D59DA5 /* FourSqualCell.m */; };
+		0F2067251BE85ED300D59DA5 /* ZHScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F2067241BE85ED300D59DA5 /* ZHScanViewController.m */; };
+		0F2067281BE88F6F00D59DA5 /* GuessLikeCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F2067271BE88F6F00D59DA5 /* GuessLikeCell.m */; };
 		0FF3D69B1BE33AB900B101BB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D69A1BE33AB900B101BB /* main.m */; };
 		0FF3D69E1BE33AB900B101BB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D69D1BE33AB900B101BB /* AppDelegate.m */; };
 		0FF3D6A11BE33AB900B101BB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6A01BE33AB900B101BB /* ViewController.m */; };
 		0FF3D6A41BE33AB900B101BB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FF3D6A21BE33AB900B101BB /* Main.storyboard */; };
 		0FF3D6A71BE33AB900B101BB /* MMeiTuan.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6A51BE33AB900B101BB /* MMeiTuan.xcdatamodeld */; };
 		0FF3D6A91BE33AB900B101BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FF3D6A81BE33AB900B101BB /* Assets.xcassets */; };
-		0FF3D6AC1BE33AB900B101BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FF3D6AA1BE33AB900B101BB /* LaunchScreen.storyboard */; };
 		0FF3D6B71BE33AB900B101BB /* MMeiTuanTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6B61BE33AB900B101BB /* MMeiTuanTests.m */; };
 		0FF3D6C21BE33AB900B101BB /* MMeiTuanUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6C11BE33AB900B101BB /* MMeiTuanUITests.m */; };
+		0FF3D6D31BE3476000B101BB /* ZHEntranceTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6D21BE3476000B101BB /* ZHEntranceTabBarController.m */; };
+		0FF3D6DA1BE3625C00B101BB /* ZHHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6D91BE3625C00B101BB /* ZHHomeViewController.m */; };
+		0FF3D6DD1BE3693700B101BB /* TitHomeTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FF3D6DC1BE3693700B101BB /* TitHomeTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +43,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F20671A1BE8476C00D59DA5 /* ZHBrandCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHBrandCell.h; sourceTree = "<group>"; };
+		0F20671B1BE8476C00D59DA5 /* ZHBrandCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHBrandCell.m; sourceTree = "<group>"; };
+		0F20671D1BE8530600D59DA5 /* OneSnapUpCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneSnapUpCell.h; sourceTree = "<group>"; };
+		0F20671E1BE8530600D59DA5 /* OneSnapUpCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneSnapUpCell.m; sourceTree = "<group>"; };
+		0F2067201BE8533B00D59DA5 /* FourSqualCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourSqualCell.h; sourceTree = "<group>"; };
+		0F2067211BE8533B00D59DA5 /* FourSqualCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourSqualCell.m; sourceTree = "<group>"; };
+		0F2067231BE85ED300D59DA5 /* ZHScanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHScanViewController.h; sourceTree = "<group>"; };
+		0F2067241BE85ED300D59DA5 /* ZHScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHScanViewController.m; sourceTree = "<group>"; };
+		0F2067261BE88F6F00D59DA5 /* GuessLikeCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GuessLikeCell.h; sourceTree = "<group>"; };
+		0F2067271BE88F6F00D59DA5 /* GuessLikeCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GuessLikeCell.m; sourceTree = "<group>"; };
 		0FF3D6961BE33AB900B101BB /* MMeiTuan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MMeiTuan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF3D69A1BE33AB900B101BB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0FF3D69C1BE33AB900B101BB /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -45,7 +62,6 @@
 		0FF3D6A31BE33AB900B101BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		0FF3D6A61BE33AB900B101BB /* MMeiTuan.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MMeiTuan.xcdatamodel; sourceTree = "<group>"; };
 		0FF3D6A81BE33AB900B101BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0FF3D6AB1BE33AB900B101BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FF3D6AD1BE33AB900B101BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0FF3D6B21BE33AB900B101BB /* MMeiTuanTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MMeiTuanTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF3D6B61BE33AB900B101BB /* MMeiTuanTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MMeiTuanTests.m; sourceTree = "<group>"; };
@@ -53,6 +69,13 @@
 		0FF3D6BD1BE33AB900B101BB /* MMeiTuanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MMeiTuanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FF3D6C11BE33AB900B101BB /* MMeiTuanUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MMeiTuanUITests.m; sourceTree = "<group>"; };
 		0FF3D6C31BE33AB900B101BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FF3D6D11BE3476000B101BB /* ZHEntranceTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHEntranceTabBarController.h; sourceTree = "<group>"; };
+		0FF3D6D21BE3476000B101BB /* ZHEntranceTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHEntranceTabBarController.m; sourceTree = "<group>"; };
+		0FF3D6D81BE3625C00B101BB /* ZHHomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZHHomeViewController.h; sourceTree = "<group>"; };
+		0FF3D6D91BE3625C00B101BB /* ZHHomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZHHomeViewController.m; sourceTree = "<group>"; };
+		0FF3D6DB1BE3693700B101BB /* TitHomeTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TitHomeTableViewCell.h; sourceTree = "<group>"; };
+		0FF3D6DC1BE3693700B101BB /* TitHomeTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TitHomeTableViewCell.m; sourceTree = "<group>"; };
+		0FF3D6DF1BE36C2D00B101BB /* MMT_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MMT_Prefix.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,13 +126,13 @@
 		0FF3D6981BE33AB900B101BB /* MMeiTuan */ = {
 			isa = PBXGroup;
 			children = (
+				0FF3D6CF1BE3470D00B101BB /* Class */,
 				0FF3D69C1BE33AB900B101BB /* AppDelegate.h */,
 				0FF3D69D1BE33AB900B101BB /* AppDelegate.m */,
 				0FF3D69F1BE33AB900B101BB /* ViewController.h */,
 				0FF3D6A01BE33AB900B101BB /* ViewController.m */,
 				0FF3D6A21BE33AB900B101BB /* Main.storyboard */,
 				0FF3D6A81BE33AB900B101BB /* Assets.xcassets */,
-				0FF3D6AA1BE33AB900B101BB /* LaunchScreen.storyboard */,
 				0FF3D6AD1BE33AB900B101BB /* Info.plist */,
 				0FF3D6A51BE33AB900B101BB /* MMeiTuan.xcdatamodeld */,
 				0FF3D6991BE33AB900B101BB /* Supporting Files */,
@@ -121,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				0FF3D69A1BE33AB900B101BB /* main.m */,
+				0FF3D6DF1BE36C2D00B101BB /* MMT_Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -141,6 +165,69 @@
 				0FF3D6C31BE33AB900B101BB /* Info.plist */,
 			);
 			path = MMeiTuanUITests;
+			sourceTree = "<group>";
+		};
+		0FF3D6CF1BE3470D00B101BB /* Class */ = {
+			isa = PBXGroup;
+			children = (
+				0FF3D6D41BE3624600B101BB /* Home */,
+				0FF3D6D01BE3470D00B101BB /* Entrance */,
+			);
+			path = Class;
+			sourceTree = "<group>";
+		};
+		0FF3D6D01BE3470D00B101BB /* Entrance */ = {
+			isa = PBXGroup;
+			children = (
+				0FF3D6D11BE3476000B101BB /* ZHEntranceTabBarController.h */,
+				0FF3D6D21BE3476000B101BB /* ZHEntranceTabBarController.m */,
+			);
+			path = Entrance;
+			sourceTree = "<group>";
+		};
+		0FF3D6D41BE3624600B101BB /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				0FF3D6D51BE3624600B101BB /* Mode */,
+				0FF3D6D61BE3624600B101BB /* view */,
+				0FF3D6D71BE3624600B101BB /* viewControll */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		0FF3D6D51BE3624600B101BB /* Mode */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Mode;
+			sourceTree = "<group>";
+		};
+		0FF3D6D61BE3624600B101BB /* view */ = {
+			isa = PBXGroup;
+			children = (
+				0FF3D6DB1BE3693700B101BB /* TitHomeTableViewCell.h */,
+				0FF3D6DC1BE3693700B101BB /* TitHomeTableViewCell.m */,
+				0F20671A1BE8476C00D59DA5 /* ZHBrandCell.h */,
+				0F20671B1BE8476C00D59DA5 /* ZHBrandCell.m */,
+				0F20671D1BE8530600D59DA5 /* OneSnapUpCell.h */,
+				0F20671E1BE8530600D59DA5 /* OneSnapUpCell.m */,
+				0F2067201BE8533B00D59DA5 /* FourSqualCell.h */,
+				0F2067211BE8533B00D59DA5 /* FourSqualCell.m */,
+				0F2067261BE88F6F00D59DA5 /* GuessLikeCell.h */,
+				0F2067271BE88F6F00D59DA5 /* GuessLikeCell.m */,
+			);
+			path = view;
+			sourceTree = "<group>";
+		};
+		0FF3D6D71BE3624600B101BB /* viewControll */ = {
+			isa = PBXGroup;
+			children = (
+				0FF3D6D81BE3625C00B101BB /* ZHHomeViewController.h */,
+				0FF3D6D91BE3625C00B101BB /* ZHHomeViewController.m */,
+				0F2067231BE85ED300D59DA5 /* ZHScanViewController.h */,
+				0F2067241BE85ED300D59DA5 /* ZHScanViewController.m */,
+			);
+			path = viewControll;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,7 +333,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0FF3D6AC1BE33AB900B101BB /* LaunchScreen.storyboard in Resources */,
 				0FF3D6A91BE33AB900B101BB /* Assets.xcassets in Resources */,
 				0FF3D6A41BE33AB900B101BB /* Main.storyboard in Resources */,
 			);
@@ -274,8 +360,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				0FF3D6A11BE33AB900B101BB /* ViewController.m in Sources */,
+				0F20671C1BE8476C00D59DA5 /* ZHBrandCell.m in Sources */,
 				0FF3D6A71BE33AB900B101BB /* MMeiTuan.xcdatamodeld in Sources */,
+				0F20671F1BE8530600D59DA5 /* OneSnapUpCell.m in Sources */,
+				0F2067221BE8533B00D59DA5 /* FourSqualCell.m in Sources */,
 				0FF3D69E1BE33AB900B101BB /* AppDelegate.m in Sources */,
+				0FF3D6DA1BE3625C00B101BB /* ZHHomeViewController.m in Sources */,
+				0FF3D6DD1BE3693700B101BB /* TitHomeTableViewCell.m in Sources */,
+				0FF3D6D31BE3476000B101BB /* ZHEntranceTabBarController.m in Sources */,
+				0F2067251BE85ED300D59DA5 /* ZHScanViewController.m in Sources */,
+				0F2067281BE88F6F00D59DA5 /* GuessLikeCell.m in Sources */,
 				0FF3D69B1BE33AB900B101BB /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -318,14 +412,6 @@
 				0FF3D6A31BE33AB900B101BB /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		0FF3D6AA1BE33AB900B101BB /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0FF3D6AB1BE33AB900B101BB /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -415,6 +501,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MMeiTuan/MMT_Prefix.pch";
 				INFOPLIST_FILE = MMeiTuan/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.qida.MMeiTuan;
@@ -426,6 +514,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/MMeiTuan/MMT_Prefix.pch";
 				INFOPLIST_FILE = MMeiTuan/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.qida.MMeiTuan;
@@ -500,6 +590,7 @@
 				0FF3D6C81BE33AB900B101BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0FF3D6C91BE33AB900B101BB /* Build configuration list for PBXNativeTarget "MMeiTuanTests" */ = {
 			isa = XCConfigurationList;
@@ -508,6 +599,7 @@
 				0FF3D6CB1BE33AB900B101BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0FF3D6CC1BE33AB900B101BB /* Build configuration list for PBXNativeTarget "MMeiTuanUITests" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +608,7 @@
 				0FF3D6CE1BE33AB900B101BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
